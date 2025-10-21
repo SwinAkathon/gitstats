@@ -168,3 +168,4 @@ images/
 output/
 *-token
 *.code-workspace
+*.private.md

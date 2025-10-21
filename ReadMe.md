@@ -1,9 +1,6 @@
 ## Github repository
 https://github.com/SwinAkathon/gitstats
 
-## Github codespace
-https://literate-goldfish-r77rv5qjq5q3xqj.github.dev/
-
 ## Dependencies
 - PyGithub
 
